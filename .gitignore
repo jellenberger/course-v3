@@ -1,3 +1,7 @@
+.ipython/
+.local/
+
+
 *.pth
 *.bak
 *.log
